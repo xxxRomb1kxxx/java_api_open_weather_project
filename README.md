@@ -1,1 +1,0 @@
-# java_api_open_weather_project
